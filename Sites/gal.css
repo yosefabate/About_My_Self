@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+body{
+    background: linear-gradient(to left, #d4eb41, #19f056);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#imager{
+    margin-top: 10%;
+
+}
+#ouriframe {
+    width: 100%;
+}
+#allign{
+    float: right;
+    font-size: 170%;
+}
+#allign :hover{color: dodgerblue;}
+#draw :hover{color: dodgerblue;}
+#dragon{
+    text-align: left;
+}
