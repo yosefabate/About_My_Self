@@ -13,6 +13,11 @@ body{
     width: 100%;
     position:absolute;
 }
+.bone{
+    color: white;
+    background-size: 100%;
+    background-color: blue;
+}
 .banner-text :hover{color: dodgerblue;}
 .pic {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -131,9 +136,9 @@ body{
 }
 #stick{
     position: fixed;
-    margin-left: 51.6%;
-    margin-top: 36%;
+    margin-left: 81.6%;
+    margin-top: 18%;
     color: black;
-    background: linear-gradient(to left, rgb(0, 174, 255), rgb(252, 69, 236))
+    background: white;
 }
 

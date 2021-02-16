@@ -3,12 +3,14 @@
     padding: 0;
 }
 body{
-    background: linear-gradient(to left, #fa4706, #8df317);
+    background: linear-gradient(to left, #08091d, #f31717);
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 .banner-text {
     width: 100%;
     color: white;
+   
+   
     position:absolute;
 }
 .banner-text ul{
@@ -33,7 +35,7 @@ body{
     margin-top: 20%;
  }
 .animation-area{
-     background: linear-gradient(to left, #fa4706, #8df317);
+     background: linear-gradient(to left, #08091d, #f31717);
      width: 100%;
      height: 100vh;
 }
@@ -51,7 +53,7 @@ body{
     list-style: none;
     width: 25px;
     height: 25px;
-    background: rgba(56, 2, 253, 0.26);
+    background: rgba(204, 206, 62, 0.795);
     animation: animate 20s linear infinite;
     bottom: -150px;
 }

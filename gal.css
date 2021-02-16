@@ -3,7 +3,7 @@
     padding: 0%
 }
 body{
-    background: linear-gradient(to left, #d4eb41, #19f056);
+    background: linear-gradient(to left, #08091d, #f31717);
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 #imager{
@@ -12,6 +12,10 @@ body{
 }
 #ouriframe {
     width: 100%;
+}
+.text{
+    color: white;
+    font-size: larger;
 }
 #allign{
     float: right;
